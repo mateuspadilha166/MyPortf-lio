@@ -1,0 +1,40 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}/*NAO ESQUECER DISSO*/
+
+body{
+    background-color: rgb(29, 37, 46);
+    color: aliceblue;
+}
+
+.Titulo{
+    font: bold 25px Arial;/*Aumentar o tamanho da font*/
+    text-align: center;
+    margin-top: 150px;
+    margin-right: 1050px;
+}
+
+.Texto{
+    font: bold 15px Arial;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.Opcoes{
+    margin-top: 200px;
+    text-align: end;
+    margin-right: 300px;
+    text-decoration: none;
+    color: orangered;
+}
+
+.IconGit{
+    margin-bottom: 100px;
+    height: 50px;
+    width: auto;
+    text-align: end;
+}
